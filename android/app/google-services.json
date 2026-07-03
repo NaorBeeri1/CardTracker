@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036077654913",
+    "project_id": "mj-card-tracker",
+    "storage_bucket": "mj-card-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036077654913:android:541c4321f9a4230300fe80",
+        "android_client_info": {
+          "package_name": "com.example.mj_card_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfmLYUUtwHTInPFDdP9FmP_n2UfvHvYys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
